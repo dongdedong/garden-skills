@@ -88,6 +88,7 @@
 
 - 定义六步设计工作流：需求 → 上下文 → 设计系统 → v0 → 完整构建 → 验证
 - 用反 AI 俗套清单和更强的视觉判断，避免千篇一律的生成式 UI
+- 内置 **设计方向顾问（6 学派差异化推荐）+ 25 套有 anchor 的风格配方库**（Linear / Aesop / Pentagram / Bloomberg / Stripe Press / Mid-Century 等），含可粘贴的 palette / typography / signature moves / 反模式
 - 覆盖 HTML / CSS / JavaScript / React 原型，以及响应式布局、动效和交互细节
 - 包含 inline React + Babel、CSS tokens、`oklch()` 配色、container queries、reduced-motion 等实现规则
 - 提供高级模式参考，覆盖设备框、幻灯片引擎、动画时间线、仪表盘等常见 Web 产物

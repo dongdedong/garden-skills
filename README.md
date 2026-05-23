@@ -88,6 +88,7 @@ Highlights:
 
 - Defines a six-step design workflow: requirements → context → design system → v0 → full build → verification
 - Pushes beyond generic AI UI patterns with an anti-cliché blocklist and stronger visual judgment
+- Ships a **Design Direction Advisor (six differentiated schools) + 25 anchored style recipes** (Linear / Aesop / Pentagram / Bloomberg / Stripe Press / Mid-Century, etc.) — each recipe carries concrete palette, typography, signature moves, and anti-patterns ready to paste into the design-system declaration
 - Covers HTML / CSS / JavaScript / React prototypes, with guidance for responsive layout, motion, and interaction polish
 - Includes practical implementation rules for inline React + Babel, CSS tokens, `oklch()` color work, container queries, and reduced-motion handling
 - Ships an advanced patterns reference for device frames, slide engines, animation timelines, dashboards, and other reusable web artifacts
